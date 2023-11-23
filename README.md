@@ -26,7 +26,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/guessing-number-game.git
+   git clone https://github.com/SergioMolano/Guessing-Game-Front.git
 Navigate to the project directory:
 
 bash
