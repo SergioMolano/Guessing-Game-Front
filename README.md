@@ -29,18 +29,16 @@ To run the application locally, follow these steps:
    git clone https://github.com/SergioMolano/Guessing-Game-Front.git
 Navigate to the project directory:
 
-bash
-Copy code
-cd guessing-number-game
+   ```bash
+cd Guessing-Game-Front
 Install dependencies:
 
-bash
-Copy code
+   ```bash
 npm install
-Usage
+
+## Usage
 To start the local development server and view the game in your browser, run:
 
-bash
-Copy code
+   ```bash
 npm start
 Open your browser and visit http://localhost:3000 to play the guessing number game.
