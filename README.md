@@ -1,6 +1,6 @@
-# Guessing Number Game
+# Guessing Number Game Front End
 
-Welcome to the Guessing Number Game! This web application is built with React and allows users to play a simple guessing game.
+Welcome to the Guessing Number Game! This web application is built with React and allows users to play a simple guessing game. Make sure to run the Back End before following this steps.
 
 ## Table of Contents
 
